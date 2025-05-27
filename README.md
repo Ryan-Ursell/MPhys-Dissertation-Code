@@ -4,9 +4,9 @@ This repository contains the code used in the analysis for the undergraduate MPh
 **_The Missing Multipole Problem: Biases in Gravitational Wave Analysis._**
 
 ## Project Overview
-The project investigates how neglecting higher-order multipoles in waveform models can bias parameter estimation for binary black hole mergers using Bayesian inference tools.
+This project investigates how neglecting higher-order multipoles in waveform models can introduce biases in parameter estimation for binary black hole mergers, using Bayesian inference tools such as `bilby`.
 
-This project investigates how neglecting higher-order multipoles in waveform models can bias parameter estimation for binary black hole mergers, using Bayesian inference tools such as `bilby`.
+The analyses were performed on the SCIAMA High Performance Computing (HPC) cluster using BILBY, with results stored as pickle files. This repository contains the Python code used to load these data files and to generate plots and perform bias quantification analyses.
 
 ## Setup & Requirements
 
@@ -34,19 +34,19 @@ To set up your environment and install all necessary dependencies, follow these 
     git clone https://github.com/Ryan-Ursell/MPhys-Dissertation-Code.git
     cd MPhys-Dissertation-Code
 
-3. **Create and activate a new conda environment
+3. **Create and activate a new conda environment**
 
-# Licence
+## Licence
 This project is under the MIT License, see [LICENSE](LICENSE) for more infomation.
 
-# Acknowledgements
-Charlie Hoy and Ian Harry:
-- My supervisors' support and feedback was invaluable to the completion of this project
+## Acknowledgements
+Supervisors
+- My supervisors, Charlie Hoy and Ian Harry, provided support and feedback throughout and were invaluable to the completion of this project
 
 ChatGPT:
 - GPT 4o was used to assist with debugging code used throughout the project
 
-# Personal Information
+## Personal Information
 Ryan Ursell  
 ryanursell@outlook.com  
 MPhys Physics, Astrophysics, and Cosmology  
