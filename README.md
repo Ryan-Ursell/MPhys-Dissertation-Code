@@ -11,7 +11,7 @@ This project investigates how neglecting higher-order multipoles in waveform mod
 ## Setup & Requirements
 
 ### Required Packages
-This project uses Python 3.10 and the following [dependencies]{dependencies.txt}:
+This project uses Python 3.10 and the following [dependencies](dependencies.txt)
 ```
 Dependencies:
 - `numpy - v1.24.3`
@@ -20,7 +20,7 @@ Dependencies:
 - `matplotlib - v3.5.3`
 - `scipy - v1.8.1`
 - `bilby - v2.1.1`
-- `pesummary - 0.13.10`
+- `pesummary - v0.13.10`
 - Plus standard libraries `re`, `os`, `collections`
 ```
 
