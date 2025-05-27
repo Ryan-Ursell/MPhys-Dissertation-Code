@@ -10,13 +10,15 @@ In order to run the code in this repository, certain packages will beed to be in
 These can be installed by following the steps below:
 
 
-```Dependencies:
+```
+Dependencies:
 - numpy - v2.2.1
 - pandas - v2.2.3
 - seaborn - v0.13.2
 - matplotlib - v3.10.0
 - scikit-learn - v1.6.0
-- torch - v2.7.0.dev20250124+cpu```
+- torch - v2.7.0.dev20250124+cpu
+```
 
 # Licence
 This project is under the MIT License, see [LICENSE](LICENSE) for more infomation.
