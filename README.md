@@ -1,24 +1,40 @@
 # MPhys-Dissertation-Code
-This repository contains the code used in the analysis for the undergraduate MPhys project: The Missing Multipole Problem: Biases in GW Analysis.
+This repository contains the code used in the analysis for the undergraduate MPhys project:
 
-# Project Overview
+**_The Missing Multipole Problem: Biases in Gravitational Wave Analysis._**
+
+## Project Overview
 The project investigates how neglecting higher-order multipoles in waveform models can bias parameter estimation for binary black hole mergers using Bayesian inference tools.
 
-# Required Packages
-In order to run the code in this repository, certain packages will beed to be installed. These packages are listed in the [dependencies.txt]{dependencies.txt} file.
+This project investigates how neglecting higher-order multipoles in waveform models can bias parameter estimation for binary black hole mergers, using Bayesian inference tools such as `bilby`.
 
-These can be installed by following the steps below:
+## Setup & Requirements
 
-
+### Required Packages
+This project uses Python 3.10 and the following [dependencies]{dependencies.txt}:
 ```
 Dependencies:
-- numpy - v2.2.1
-- pandas - v2.2.3
-- seaborn - v0.13.2
-- matplotlib - v3.10.0
-- scikit-learn - v1.6.0
-- torch - v2.7.0.dev20250124+cpu
+- `numpy - v1.24.3`
+- `pandas - v2.0.2`
+- `seaborn - v0.12.2`
+- `matplotlib - v3.5.3`
+- `scipy - v1.8.1`
+- `bilby - v2.1.1`
+- `pesummary - 0.13.10`
+- Plus standard libraries `re`, `os`, `collections`
 ```
+
+### Installing Dependencies
+To set up your environment and install all necessary dependencies, follow these steps:
+
+1. **Install Python and Conda** if you don't already have it
+
+2. **Clone the repository**:
+    ```bash
+    git clone https://github.com/Ryan-Ursell/MPhys-Dissertation-Code.git
+    cd MPhys-Dissertation-Code
+
+3. **Create and activate a new conda environment
 
 # Licence
 This project is under the MIT License, see [LICENSE](LICENSE) for more infomation.
