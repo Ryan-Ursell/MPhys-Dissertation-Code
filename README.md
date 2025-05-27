@@ -31,7 +31,7 @@ ChatGPT:
 - GPT 4o was used to assist with debugging code used throughout the project
 
 # Personal Information
-Ryan Ursell
-ryanursell@outlook.com
-MPhys Physics, Astrophysics, and Cosmology
-University of Portsmouth
+Ryan Ursell  
+ryanursell@outlook.com  
+MPhys Physics, Astrophysics, and Cosmology  
+University of Portsmouth  
