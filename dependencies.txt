@@ -1,0 +1,7 @@
+numpy - v1.24.3
+pandas - v2.0.2
+seaborn - v0.12.2
+matplotlib - v3.5.3
+scipy - v1.8.1
+bilby - v2.1.1
+pesummary - v0.13.10
