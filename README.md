@@ -11,7 +11,7 @@ The analyses were performed on the SCIAMA High Performance Computing (HPC) clust
 ## Setup & Requirements
 
 ### Required Packages
-This project uses Python 3.10 and the following [dependencies](dependencies.txt)
+This project uses Python 3.10 ![Python Version](https://img.shields.io/badge/python-3.10-blue) and the following [dependencies](dependencies.txt)
 ```
 Dependencies:
 - `numpy - v1.24.3`
@@ -25,7 +25,7 @@ Dependencies:
 ```
 
 ## Licence
-This project is under the MIT License, see [LICENSE](LICENSE) for more infomation.
+This project is under the MIT ![License](https://img.shields.io/badge/license-MIT-green), see [LICENSE](LICENSE) for more infomation.
 
 ## Acknowledgements
 Supervisors
