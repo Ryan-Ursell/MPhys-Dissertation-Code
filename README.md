@@ -24,18 +24,6 @@ Dependencies:
 - Plus standard libraries `re`, `os`, `collections`
 ```
 
-### Installing Dependencies
-To set up your environment and install all necessary dependencies, follow these steps:
-
-1. **Install Python and Conda** if you don't already have it
-
-2. **Clone the repository**:
-    ```bash
-    git clone https://github.com/Ryan-Ursell/MPhys-Dissertation-Code.git
-    cd MPhys-Dissertation-Code
-
-3. **Create and activate a new conda environment**
-
 ## Licence
 This project is under the MIT License, see [LICENSE](LICENSE) for more infomation.
 
